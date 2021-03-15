@@ -1,2 +1,2 @@
 # dotNETBenchmarks
-simple project to compare the execution for Loops in Csharp.
+simple project to compare the execution times in C# Loops.
