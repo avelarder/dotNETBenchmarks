@@ -1,0 +1,5 @@
+// Validating benchmarks:
+Only 1 benchmark method in a group can have "Baseline = true" applied to it, group DefaultJob in class Loop has 3
+Assembly sharplab which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
